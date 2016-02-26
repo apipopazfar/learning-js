@@ -1,0 +1,22 @@
+{
+  "name": "apipoazfar",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apipopazfar/learning-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apipopazfar/learning-js/issues"
+  },
+  "homepage": "https://github.com/apipopazfar/learning-js#readme",
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
